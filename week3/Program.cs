@@ -54,7 +54,7 @@ namespace week3
                 index = 1;
             }*/
             Console.WriteLine(Aarray.Reverse());
-            int[] Darray = new int[] { 5, 4, 3, 2, 1 };
+            int[] Darray = new int[] { 5, 4, 3, 2, 1 };//
             showfor(Darray);
             Array.Sort(Darray);
 
